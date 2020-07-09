@@ -1,0 +1,954 @@
+Script started on 2020-03-18 23:31:58-0700
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ mkdir Home
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ cd Home/
+]0;bottolin@ubuntu: ~/Home[01;32mbottolin@ubuntu[00m:[01;34m~/Home[00m$ mkdir -p Cricket/{India,Australia,England,Pakistan,Bangl
+ladesh}
+[K[A]0;bottolin@ubuntu: ~/Home[01;32mbottolin@ubuntu[00m:[01;34m~/Home[00m$ mkdir -p Cricket/{India,Australia,England,Pakistan,Bangla
+adesh}
+]0;bottolin@ubuntu: ~/Home[01;32mbottolin@ubuntu[00m:[01;34m~/Home[00m$ cd Cricket/
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ ls
+[0m[01;34mAustralia[0m  [01;34mBangladesh[0m  [01;34mEngland[0m  [01;34mIndia[0m  [01;34mPakistan[0m
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ cd ../
+]0;bottolin@ubuntu: ~/Home[01;32mbottolin@ubuntu[00m:[01;34m~/Home[00m$ cd Cricket/India/
+]0;bottolin@ubuntu: ~/Home/Cricket/India[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/India[00m$ pwd
+/home/bottolin/Home/Cricket/India
+]0;bottolin@ubuntu: ~/Home/Cricket/India[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/India[00m$ touch Delhi Goa Mumbai
+]0;bottolin@ubuntu: ~/Home/Cricket/India[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/India[00m$ ls
+Delhi  Goa  Mumbai
+]0;bottolin@ubuntu: ~/Home/Cricket/India[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/India[00m$ cd ../
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ rm -i India/{}D}e}l}h}i},}G}o}a},}M}u}m}b}a}i}[C
+rm: remove regular empty file 'India/Delhi'? y
+rm: remove regular empty file 'India/Goa'? y
+rm: remove regular empty file 'India/Mumbai'? y
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ cd Inai[K[Kdia %[K&& ls
+]0;bottolin@ubuntu: ~/Home/Cricket/India[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/India[00m$ cd ../
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ rmdir India/
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ ls
+[0m[01;34mAustralia[0m  [01;34mBangladesh[0m  [01;34mEngland[0m  [01;34mPakistan[0m
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ 
+[K]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ echo -e ""H"e"l"l"o" "[1P"!" "I" "a"m" "p"r"o"u"d" "t"o" "e"[1P"b"e"p"[1P" "p"a"r"t" "o"f" "N"e"p"a"l"i" "[1P"." "\"n" "1"4"<"(")"2)"+)"2)"[C[C
+Hello! I am proud to be part of Nepali. 
+ 14<(2+2)
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ pwd
+/home/bottolin/Home/Cricket
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ cd Bangladesh/
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ pwd
+/home/bottolin/Home/Cricket/Bangladesh
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ pwd;cd;pwd
+/home/bottolin/Home/Cricket/Bangladesh
+/home/bottolin
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ cd Home/Cricket/Bangladesh/
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ pwd;cd ..;pwd;cd ..;pwd
+/home/bottolin/Home/Cricket/Bangladesh
+/home/bottolin/Home/Cricket
+/home/bottolin/Home
+]0;bottolin@ubuntu: ~/Home[01;32mbottolin@ubuntu[00m:[01;34m~/Home[00m$ cd;pwd
+/home/bottolin
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ls
+18028930cw2  [0m[01;34mDesktop[0m  [01;34mHome[0m
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ls -a
+[0m[01;34m.[0m            .bash_history  [01;34m.cache[0m   [01;34m.gnupg[0m         [01;34m.local[0m
+[01;34m..[0m           .bash_logout   [01;34m.config[0m  [01;34mHome[0m           .profile
+18028930cw2  .bashrc        [01;34mDesktop[0m  .ICEauthority  .sudo_as_admin_successful
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ls -al
+total 60
+drwxr-xr-x  8 bottolin bottolin 4096 Mar 18 23:32 [0m[01;34m.[0m
+drwxr-xr-x  4 root     root     4096 Mar 18 07:16 [01;34m..[0m
+-rw-r--r--  1 bottolin bottolin 4096 Mar 18 23:36 18028930cw2
+-rw-------  1 bottolin bottolin   55 Mar 18 23:30 .bash_history
+-rw-r--r--  1 bottolin bottolin  220 Mar 11 07:50 .bash_logout
+-rw-r--r--  1 bottolin bottolin 3772 Mar 18 23:29 .bashrc
+drwxr-xr-x 11 bottolin bottolin 4096 Mar 18 23:29 [01;34m.cache[0m
+drwx------ 13 bottolin bottolin 4096 Mar 18 23:29 [01;34m.config[0m
+drwxr-xr-x  2 bottolin bottolin 4096 Mar 11 08:01 [01;34mDesktop[0m
+drwx------  3 bottolin bottolin 4096 Mar 18 23:27 [01;34m.gnupg[0m
+drwxr-xr-x  3 bottolin bottolin 4096 Mar 18 23:32 [01;34mHome[0m
+-rw-------  1 bottolin bottolin 4452 Mar 18 23:27 .ICEauthority
+drwx------  3 bottolin bottolin 4096 Mar 11 08:00 [01;34m.local[0m
+-rw-r--r--  1 bottolin bottolin  807 Mar 11 07:50 .profile
+-rw-r--r--  1 bottolin bottolin    0 Mar 11 08:37 .sudo_as_admin_successful
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ cd;pwd;cd cw2;pwd
+/home/bottolin
+bash: cd: cw2: No such file or directory
+/home/bottolin
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ls -R
+.:
+18028930cw2  [0m[01;34mDesktop[0m  [01;34mHome[0m
+
+./Desktop:
+
+./Home:
+[01;34mCricket[0m
+
+./Home/Cricket:
+[01;34mAustralia[0m  [01;34mBangladesh[0m  [01;34mEngland[0m  [01;34mPakistan[0m
+
+./Home/Cricket/Australia:
+
+./Home/Cricket/Bangladesh:
+
+./Home/Cricket/England:
+
+./Home/Cricket/Pakistan:
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ cd Home/Cricket/Australia/
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cat >testX
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC cccdd      
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cat >testX[KY
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cat >testY[KZ
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ ls
+testX  testY  testZ
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cat testX
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cat testX[KY
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cat testY[KZ
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cp testX testY testZ /home/bottolin/Home/Cricket/Bangl
+ladesh/
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cd ../
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ cd Bangladesh/
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ ls
+testX  testY  testZ
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ cda[K[Kat testX testY testZ
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC
+cccdd Ddddd
+DDDDD
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ cat testX[K[K[K[K[K[K[K[K[Kcat testX testY testZ > testResulq[Kt
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ cat testResult [K
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC
+cccdd Ddddd
+DDDDD
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ cat testX - testY >>testResult
+Use the cat command
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ cat testResult [K
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC
+cccdd Ddddd
+DDDDD
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC
+cccdd Ddddd
+DDDDD
+Use the cat command
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ cat test[]X]Y]Z][C
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC
+cccdd Ddddd
+DDDDD
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC      
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ cd ../
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ cd Australia/
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ ls -al
+total 20
+drwxr-xr-x 2 bottolin bottolin 4096 Mar 18 23:38 [0m[01;34m.[0m
+drwxr-xr-x 6 bottolin bottolin 4096 Mar 18 23:34 [01;34m..[0m
+-rw-r--r-- 1 bottolin bottolin   72 Mar 18 23:37 testX
+-rw-r--r-- 1 bottolin bottolin   78 Mar 18 23:37 testY
+-rw-r--r-- 1 bottolin bottolin   78 Mar 18 23:38 testZ
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ chmod 000 testX
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ ls -al testX
+---------- 1 bottolin bottolin 72 Mar 18 23:37 testX
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cat T[KtestX
+cat: testX: Permission denied
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cat >>testX
+bash: testX: Permission denied
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ chmod 600 testX
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ ls -al testX
+-rw------- 1 bottolin bottolin 72 Mar 18 23:37 testX
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ ct[Kat T[KtestX
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cat >>testX
+Line added
+]0;bottolin@ubuntu: ~/Home/Cricket/Australia[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Australia[00m$ cd ../
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ ls -al Australia/
+total 20
+drwxr-xr-x 2 bottolin bottolin 4096 Mar 18 23:38 [0m[01;34m.[0m
+drwxr-xr-x 6 bottolin bottolin 4096 Mar 18 23:34 [01;34m..[0m
+-rw------- 1 bottolin bottolin   83 Mar 18 23:43 testX
+-rw-r--r-- 1 bottolin bottolin   78 Mar 18 23:37 testY
+-rw-r--r-- 1 bottolin bottolin   78 Mar 18 23:38 testZ
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ chmod 000 Australia/
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ ls -al
+total 24
+drwxr-xr-x 6 bottolin bottolin 4096 Mar 18 23:34 [0m[01;34m.[0m
+drwxr-xr-x 3 bottolin bottolin 4096 Mar 18 23:32 [01;34m..[0m
+d--------- 2 bottolin bottolin 4096 Mar 18 23:38 [01;34mAustralia[0m
+drwxr-xr-x 2 bottolin bottolin 4096 Mar 18 23:39 [01;34mBangladesh[0m
+drwxr-xr-x 2 bottolin bottolin 4096 Mar 18 23:32 [01;34mEngland[0m
+drwxr-xr-x 2 bottolin bottolin 4096 Mar 18 23:32 [01;34mPakistan[0m
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ cat Australia/testX
+cat: Australia/testX: Permission denied
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ touch Australia/file1
+touch: cannot touch 'Australia/file1': Permission denied
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ ls a[KAustralia/
+ls: cannot open directory 'Australia/': Permission denied
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ chmod700[K[K[K 700 Australia/
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ ls -al
+total 24
+drwxr-xr-x 6 bottolin bottolin 4096 Mar 18 23:34 [0m[01;34m.[0m
+drwxr-xr-x 3 bottolin bottolin 4096 Mar 18 23:32 [01;34m..[0m
+drwx------ 2 bottolin bottolin 4096 Mar 18 23:38 [01;34mAustralia[0m
+drwxr-xr-x 2 bottolin bottolin 4096 Mar 18 23:39 [01;34mBangladesh[0m
+drwxr-xr-x 2 bottolin bottolin 4096 Mar 18 23:32 [01;34mEngland[0m
+drwxr-xr-x 2 bottolin bottolin 4096 Mar 18 23:32 [01;34mPakistan[0m
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ cat Australia/testX
+aaabb Aaaaa
+AAAAA
+bbbcc Bbbbb
+BBBBB
+ff-ff Ccccc
+CCCCC
+cccdd Ddddd
+DDDDD
+Line added
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ touch Australia/feil[K[K[Kile1
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ ls Australia/
+file1  testX  testY  testZ
+]0;bottolin@ubuntu: ~/Home/Cricket[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket[00m$ ca[Kd Bangladesh/
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep bb testX
+aaa[01;31m[Kbb[m[K Aaaaa
+[01;31m[Kbb[m[Kbcc B[01;31m[Kbb[m[K[01;31m[Kbb[m[K
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep -v bb testX
+AAAAA
+BBBBB
+ff-ff Ccccc
+CCCCC
+cccdd Ddddd
+DDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep -n bb testX
+[32m[K1[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[32m[K3[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc B[01;31m[Kbb[m[K[01;31m[Kbb[m[K
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep -l b *
+[35m[KtestResult[m[K
+[35m[KtestX[m[K
+[35m[KtestY[m[K
+[35m[KtestZ[m[K
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep -i bb *
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestX[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestX[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestX[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestY[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestY[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestY[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestZ[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestZ[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestZ[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep -i BB *
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestResult[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestX[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestX[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestX[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestY[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestY[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestY[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+[35m[KtestZ[m[K[36m[K:[m[Kaaa[01;31m[Kbb[m[K Aaaaa
+[35m[KtestZ[m[K[36m[K:[m[K[01;31m[Kbb[m[Kbcc [01;31m[KBb[m[K[01;31m[Kbb[m[Kb
+[35m[KtestZ[m[K[36m[K:[m[K[01;31m[KBB[m[K[01;31m[KBB[m[KB
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep -c bb *
+[35m[KtestResult[m[K[36m[K:[m[K10
+[35m[KtestX[m[K[36m[K:[m[K2
+[35m[KtestY[m[K[36m[K:[m[K2
+[35m[KtestZ[m[K[36m[K:[m[K2
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep -c bb *
+[35m[KtestResult[m[K[36m[K:[m[K10
+[35m[KtestX[m[K[36m[K:[m[K2
+[35m[KtestY[m[K[36m[K:[m[K2
+[35m[KtestZ[m[K[36m[K:[m[K2
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep ''^'A'[C *
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KA[m[KAAAA
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KA[m[KAAAA
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KA[m[KAAAA
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KA[m[KAAAA
+[35m[KtestResult[m[K[36m[K:[m[K[01;31m[KA[m[KAAAA
+[35m[KtestX[m[K[36m[K:[m[K[01;31m[KA[m[KAAAA
+[35m[KtestY[m[K[36m[K:[m[K[01;31m[KA[m[KAAAA
+[35m[KtestZ[m[K[36m[K:[m[K[01;31m[KA[m[KAAAA
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ grep -n ''^'[C testX
+[32m[K1[m[K[36m[K:[m[Kaaabb Aaaaa
+[32m[K2[m[K[36m[K:[m[KAAAAA
+[32m[K3[m[K[36m[K:[m[Kbbbcc Bbbbb
+[32m[K4[m[K[36m[K:[m[KBBBBB
+[32m[K5[m[K[36m[K:[m[Kff-ff Ccccc
+[32m[K6[m[K[36m[K:[m[KCCCCC
+[32m[K7[m[K[36m[K:[m[Kcccdd Ddddd
+[32m[K8[m[K[36m[K:[m[KDDDDD
+]0;bottolin@ubuntu: ~/Home/Cricket/Bangladesh[01;32mbottolin@ubuntu[00m:[01;34m~/Home/Cricket/Bangladesh[00m$ cd
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ls -aR
+.:
+[0m[01;34m.[0m            .bash_history  [01;34m.cache[0m   [01;34m.gnupg[0m         [01;34m.local[0m
+[01;34m..[0m           .bash_logout   [01;34m.config[0m  [01;34mHome[0m           .profile
+18028930cw2  .bashrc        [01;34mDesktop[0m  .ICEauthority  .sudo_as_admin_successful
+
+./.cache:
+[01;34m.[0m
+[01;34m..[0m
+event-sound-cache.tdb.af7b38d4f4e44287ab2e25b6f4ddb264.x86_64-pc-linux-gnu
+[01;34mevolution[0m
+[01;34mgnome-software[0m
+[01;34mgstreamer-1.0[0m
+[01;34mibus[0m
+[01;34mibus-table[0m
+[01;34mlibgweather[0m
+[01;34mubuntu-report[0m
+[01;34mupdate-manager-core[0m
+[01;34mwallpaper[0m
+zeitgeist-vacuum.stamp
+
+
+[01;34m.[0m
+[01;34m..[0m
+af7b38d4f4e44287ab2e25b6f4ddb264-card-database.tdb
+af7b38d4f4e44287ab2e25b6f4ddb264-default-sink
+af7b38d4f4e44287ab2e25b6f4ddb264-default-source
+af7b38d4f4e44287ab2e25b6f4ddb264-device-volumes.tdb
+af7b38d4f4e44287ab2e25b6f4ddb264-stream-volumes.tdb
+cookie
+
+./.config/update-notifier:
+[01;34m.[0m  [01;34m..[0m
+
+./Desktop:
+[01;34m.[0m  [01;34m..[0m
+
+./.gnupg:
+[01;34m.[0m  [01;34m..[0m  [01;34mprivate-keys-v1.d[0m
+
+./.gnupg/private-keys-v1.d:
+[01;34m.[0m  [01;34m..[0m
+
+./Home:
+[01;34m.[0m  [01;34m..[0m  [01;34mCricket[0m
+
+./Home/Cricket:
+[01;34m.[0m  [01;34m..[0m  [01;34mAustralia[0m  [01;34mBangladesh[0m  [01;34mEngland[0m  [01;34mPakistan[0m
+
+./Home/Cricket/Australia:
+[01;34m.[0m  [01;34m..[0m  file1  testX  testY  testZ
+
+./Home/Cricket/Bangladesh:
+[01;34m.[0m  [01;34m..[0m  testResult  testX  testY  testZ
+
+./Home/Cricket/England:
+[01;34m.[0m  [01;34m..[0m
+
+./Home/Cricket/Pakistan:
+[01;34m.[0m  [01;34m..[0m
+
+./.local:
+[01;34m.[0m  [01;34m..[0m  [01;34mshare[0m
+
+./.local/share:
+[01;34m.[0m             [01;34mflatpak[0m                [01;34micc[0m                 session_migration-ubuntu  [01;34mzeitgeist[0m
+[01;34m..[0m            [01;34mgnome-settings-daemon[0m  [01;34mkeyrings[0m            [01;34msounds[0m
+[01;34mapp-info[0m      [01;34mgnome-shell[0m            [01;34mnano[0m                [01;34mTrash[0m
+[01;34mapplications[0m  [01;34mgvfs-metadata[0m          [01;34mnautilus[0m            [01;34mwebkitgtk[0m
+[01;34mevolution[0m     [01;34mibus-table[0m             recently-used.xbel  [01;34mxorg[0m
+
+./.local/share/gnome-settings-daemon:
+[01;34m.[0m  [01;34m..[0m  input-sources-converted
+
+./.local/share/gnome-shell:
+[01;34m.[0m  [01;34m..[0m  application_state
+
+./.local/share/gvfs-metadata:
+[01;34m.[0m  [01;34m..[0m  home  home-03dbf1b5.log  root  root-85ac045d.log
+
+./.local/share/ibus-table:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/icc:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/keyrings:
+[01;34m.[0m  [01;34m..[0m  login.keyring  user.keystore
+
+./.local/share/nano:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/nautilus:
+[01;34m.[0m  [01;34m..[0m  [01;34mscripts[0m
+
+./.local/share/nautilus/scripts:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/sounds:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/Trash:
+[01;34m.[0m  [01;34m..[0m  [01;34mexpunged[0m  [01;34mfiles[0m  [01;34minfo[0m
+
+./.local/share/Trash/expunged:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/Trash/files:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/Trash/info:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/webkitgtk:
+[01;34m.[0m  [01;34m..[0m  [01;34mdatabases[0m  [01;34mdeviceidhashsalts[0m  [01;34mlocalstorage[0m
+
+./.local/share/webkitgtk/databases:
+[01;34m.[0m  [01;34m..[0m  [01;34mindexeddb[0m
+
+./.local/share/webkitgtk/databases/indexeddb:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/webkitgtk/deviceidhashsalts:
+[01;34m.[0m  [01;34m..[0m  [01;34m1[0m
+
+./.local/share/webkitgtk/deviceidhashsalts/1:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/webkitgtk/localstorage:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/xorg:
+[01;34m.[0m  [01;34m..[0m  Xorg.0.log  Xorg.0.log.old
+
+./.local/share/zeitgeist:
+[01;34m.[0m  [01;34m..[0m  activity.sqlite  activity.sqlite-shm  activity.sqlite-wal  [01;34mfts.index[0m
+
+./.local/share/zeitgeist/fts.index:
+[01;34m.[0m  [01;34m..[0m  flintlock  iamglass  position.glass  postlist.glass  termlist.glass
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ls -a
+[0m[01;34m.[0m            .bash_history  [01;34m.cache[0m   [01;34m.gnupg[0m         [01;34m.local[0m
+[01;34m..[0m           .bash_logout   [01;34m.config[0m  [01;34mHome[0m           .profile
+18028930cw2  .bashrc        [01;34mDesktop[0m  .ICEauthority  .sudo_as_admin_successful
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ lsa
+
+Command 'lsa' not found, but there are 17 similar ones.
+
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ lsaR
+
+Command 'lsaR' not found, did you mean:
+
+  command 'lsar' from deb unar
+  command 'lsat' from deb lsat
+
+Try: sudo apt install <deb name>
+
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ [H[2J]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ alias lsa=''l's' '-'a'[C
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ alias lsaR=''l's' '='[1P'-'a'R'[C
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ alias
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias grep='grep --color=auto'
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+alias lsa='ls -a'
+alias lsaR='ls -aR'
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ unalias lsa
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ unalias la[KsaR
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ alias
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias grep='grep --color=auto'
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ lsa
+
+Command 'lsa' not found, but there are 17 similar ones.
+
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ lsar[Kr[Kr[Kr[Kr[KR
+
+Command 'lsaR' not found, did you mean:
+
+  command 'lsar' from deb unar
+  command 'lsat' from deb lsat
+
+Try: sudo apt install <deb name>
+
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ gedit .bashrc
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-18 23:50:53-0700
+Script started on 2020-03-18 23:51:11-0700
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ lsa
+[0m[01;34m.[0m            .bash_history  [01;34m.cache[0m   [01;34m.gnupg[0m         [01;34m.local[0m
+[01;34m..[0m           .bash_logout   [01;34m.config[0m  [01;34mHome[0m           .profile
+18028930cw2  .bashrc        [01;34mDesktop[0m  .ICEauthority  .sudo_as_admin_successful
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ lsaR
+.:
+[0m[01;34m.[0m            .bash_history  [01;34m.cache[0m   [01;34m.gnupg[0m         [01;34m.local[0m
+[01;34m..[0m           .bash_logout   [01;34m.config[0m  [01;34mHome[0m           .profile
+18028930cw2  .bashrc        [01;34mDesktop[0m  .ICEauthority  .sudo_as_admin_successful
+
+./.cache:
+[01;34m.[0m
+[01;34m..[0m
+event-sound-cache.tdb.af7b38d4f4e44287ab2e25b6f4ddb264.x86_64-pc-linux-gnu
+[01;34mevolution[0m
+[01;34mgnome-software[0m
+[01;34mgstreamer-1.0[0m
+[01;34mibus[0m
+[01;34mibus-table[0m
+[01;34mlibgweather[0m
+[01;34mubuntu-report[0m
+[01;34mupdate-manager-core[0m
+[01;34mwallpaper[0m
+zeitgeist-vacuum.stamp
+
+./.config/pulse:
+[01;34m.[0m
+[01;34m..[0m
+af7b38d4f4e44287ab2e25b6f4ddb264-card-database.tdb
+af7b38d4f4e44287ab2e25b6f4ddb264-default-sink
+af7b38d4f4e44287ab2e25b6f4ddb264-default-source
+af7b38d4f4e44287ab2e25b6f4ddb264-device-volumes.tdb
+af7b38d4f4e44287ab2e25b6f4ddb264-stream-volumes.tdb
+cookie
+
+./.config/update-notifier:
+[01;34m.[0m  [01;34m..[0m
+
+./Desktop:
+[01;34m.[0m  [01;34m..[0m
+
+./.gnupg:
+[01;34m.[0m  [01;34m..[0m  [01;34mprivate-keys-v1.d[0m
+
+./.gnupg/private-keys-v1.d:
+[01;34m.[0m  [01;34m..[0m
+
+./Home:
+[01;34m.[0m  [01;34m..[0m  [01;34mCricket[0m
+
+./Home/Cricket:
+[01;34m.[0m  [01;34m..[0m  [01;34mAustralia[0m  [01;34mBangladesh[0m  [01;34mEngland[0m  [01;34mPakistan[0m
+
+./Home/Cricket/Australia:
+[01;34m.[0m  [01;34m..[0m  file1  testX  testY  testZ
+
+./Home/Cricket/Bangladesh:
+[01;34m.[0m  [01;34m..[0m  testResult  testX  testY  testZ
+
+./Home/Cricket/England:
+[01;34m.[0m  [01;34m..[0m
+
+./Home/Cricket/Pakistan:
+[01;34m.[0m  [01;34m..[0m
+
+./.local:
+[01;34m.[0m  [01;34m..[0m  [01;34mshare[0m
+
+./.local/share:
+[01;34m.[0m             [01;34mflatpak[0m                [01;34micc[0m                 session_migration-ubuntu  [01;34mzeitgeist[0m
+[01;34m..[0m            [01;34mgnome-settings-daemon[0m  [01;34mkeyrings[0m            [01;34msounds[0m
+[01;34mapp-info[0m      [01;34mgnome-shell[0m            [01;34mnano[0m                [01;34mTrash[0m
+[01;34mapplications[0m  [01;34mgvfs-metadata[0m          [01;34mnautilus[0m            [01;34mwebkitgtk[0m
+[01;34mevolution[0m     [01;34mibus-table[0m             recently-used.xbel  [01;34mxorg[0m
+
+./.local/share/app-info:
+[01;34m.[0m  [01;34m..[0m  [01;34mxmls[0m
+
+./.local/share/app-info/xmls:
+[01;34m.[0m  [01;34m..[0m  extensions-web.xml
+
+./.local/share/applications:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/evolution:
+[01;34m.[0m  [01;34m..[0m  [01;34maddressbook[0m  [01;34mcalendar[0m  [01;34mmail[0m  [01;34mmemos[0m  [01;34mtasks[0m
+
+./.local/share/evolution/addressbook:
+[01;34m.[0m  [01;34m..[0m  [01;34msystem[0m  [01;34mtrash[0m
+
+./.local/share/evolution/addressbook/system:
+[01;34m.[0m  [01;34m..[0m  contacts.db  [01;34mphotos[0m
+
+./.local/share/evolution/addressbook/system/photos:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/evolution/addressbook/trash:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/evolution/calendar:
+[01;34m.[0m  [01;34m..[0m  [01;34msystem[0m  [01;34mtrash[0m
+
+./.local/share/evolution/calendar/system:
+[01;34m.[0m  [01;34m..[0m  calendar.ics
+
+./.local/share/evolution/calendar/trash:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/flatpak/db:
+[01;34m.[0m  [01;34m..[0m
+
+./.local/share/gnome-settings-daemon:
+
+./.local/share/xorg:
+[01;34m.[0m  [01;34m..[0m  Xorg.0.log  Xorg.0.log.old
+
+./.local/share/zeitgeist:
+[01;34m.[0m  [01;34m..[0m  activity.sqlite  activity.sqlite-shm  activity.sqlite-wal  [01;34mfts.index[0m
+
+./.local/share/zeitgeist/fts.index:
+[01;34m.[0m  [01;34m..[0m  flintlock  iamglass  position.glass  postlist.glass  termlist.glass
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ls -a |wc -l
+15
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ noAllf
+noAllf: command not found
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ gedit .bashrc
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-18 23:52:35-0700
+Script started on 2020-03-18 23:52:49-0700
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ noAllf
+15
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ls -aR |wc -l
+599
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ noAsubsir
+noAsubsir: command not found
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ gedit .bashrc
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-18 23:55:36-0700
+Script started on 2020-03-18 23:55:48-0700
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ noS[KAsubsir
+599
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ls -aR |grep ^[]g]t]w][C |wc-[K -l
+33
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ noAcs
+noAcs: command not found
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ gedit .bashrc
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-18 23:58:04-0700
+Script started on 2020-03-18 23:58:20-0700
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ noAcs
+33
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ noAllf
+15
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ noAsubsir
+599
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ noAcs
+33
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ history
+    1  gedit .bashrc
+    2  gedit .bash_history 
+    3  rm -rf 18028930cw2 
+    4  mkdir Home
+    5  cd Home/
+    6  mkdir -p Cricket/{India,Australia,England,Pakistan,Bangladesh}
+    7  cd Cricket/
+    8  ls
+    9  cd ../
+   10  cd Cricket/India/
+   11  pwd
+   12  touch Delhi Goa Mumbai
+   13  ls
+   14  cd ../
+   15  rm -i India/{Delhi,Goa,Mumbai}
+   16  cd India && ls
+   17  cd ../
+   18  rmdir India/
+   19  ls
+   20  echo -e "Hello! I am proud to be part of Nepali. \n 14<(2+2)"
+   21  pwd
+   22  cd Bangladesh/
+   23  pwd
+   24  pwd;cd;pwd
+   25  cd Home/Cricket/Bangladesh/
+   26  pwd;cd ..;pwd;cd ..;pwd
+   27  cd;pwd
+   28  ls
+   29  ls -a
+   30  ls -al
+   31  cd;pwd;cd cw2;pwd
+   32  ls -R
+   33  cd Home/Cricket/Australia/
+   34  cat >testX
+   35  cat >testY
+   36  cat >testZ
+   37  ls
+   38  cat testX
+   39  cat testY
+   40  cat testZ
+   41  cp testX testY testZ /home/bottolin/Home/Cricket/Bangladesh/
+   42  cd ../
+   43  cd Bangladesh/
+   44  ls
+   45  cat testX testY testZ
+   46  cat testX testY testZ > testResult
+   47  cat testResult
+   48  cat testX - testY >>testResult
+   49  cat testResult
+   50  cat test[XYZ]
+   51  cd ../
+   52  cd Australia/
+   53  ls -al
+   54  chmod 000 testX
+   55  ls -al testX
+   56  cat testX
+   57  cat >>testX
+   58  chmod 600 testX
+   59  ls -al testX
+   60  cat testX
+   61  cat >>testX
+   62  cd ../
+   63  ls -al Australia/
+   64  chmod 000 Australia/
+   65  ls -al
+   66  cat Australia/testX
+   67  touch Australia/file1
+   68  ls Australia/
+   69  chmod 700 Australia/
+   70  ls -al
+   71  cat Australia/testX
+   72  touch Australia/file1
+   73  ls Australia/
+   74  cd Bangladesh/
+   75  grep bb testX
+   76  grep -v bb testX
+   77  grep -n bb testX
+   78  grep -l b *
+   79  grep -i bb *
+   80  grep -i BB *
+   81  grep -c bb *
+   82  grep '^A' *
+   83  grep -n '^' testX
+   84  cd
+   85  ls -aR
+   86  ls -a
+   87  lsa
+   88  lsaR
+   89  alias lsa='ls -a'
+   90  alias lsaR='ls -aR'
+   91  alias
+   92  unalias lsa
+   93  unalias lsaR
+   94  alias
+   95  lsa
+   96  lsaR
+   97  gedit .bashrc
+   98  exit
+   99  script 18028930cw2
+  100  lsa
+  101  lsaR
+  102  ls -a |wc -l
+  103  noAllf
+  104  gedit .bashrc
+  105  exit
+  106  script -a 18028930cw2
+  107  noAllf
+  108  ls -aR |wc -l
+  109  noAsubsir
+  110  gedit .bashrc
+  111  exit
+  112  noAsubsir
+  113  ls -aR |grep ^[gtw] |wc -l
+  114  noAcs
+  115  gedit .bashrc
+  116  exit
+  117  script -a 18028930cw2
+  118  noAcs
+  119  noAllf
+  120  noAsubsir
+  121  noAcs
+  122  history
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ 
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ 
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ 
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ 
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ 
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ 
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ 
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ======
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ======
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ======
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ======
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ======
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ======
+[K]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ ======[K[K[K[K[K[K!-8
+gedit .bashrc
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ !m
+mkdir -p Cricket/{India,Australia,England,Pakistan,Bangladesh}
+]0;bottolin@ubuntu: ~[01;32mbottolin@ubuntu[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-19 00:00:52-0700
